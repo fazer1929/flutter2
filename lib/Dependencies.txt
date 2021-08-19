@@ -1,0 +1,4 @@
+ flutter_background_service: ^0.1.5
+  flutter_sms: ^2.3.1
+  geolocator: ^7.4.0
+  shared_preferences: ^2.0.6
